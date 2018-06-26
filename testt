@@ -1,0 +1,7 @@
+```csharp
+if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+
+```
